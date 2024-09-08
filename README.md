@@ -1,4 +1,11 @@
 <!--## Hi there 👋-->
+
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=fjqz177" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjqz177&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2461795341&layout=compact&hide=javascript,html,makefile&theme=github_dark" alt="Top Langs" style="margin-right: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=d2461795341&theme=github_dark&show_icons=true" alt="Anurag's GitHub stats">
