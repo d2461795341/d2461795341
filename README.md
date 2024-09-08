@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2461795341&layout=compact&hide=javascript,html,makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2461795341&layout=compact&hide=javascript,html,makefile&theme=dark)
 
 ![](https://raw.githubusercontent.com/d2461795341/d2461795341/main/dist/github-contribution-grid-snake.svg)
 <!--
