@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2461795341&layout=compact&hide=javascript,html,makefile&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2461795341&layout=compact&hide=javascript,html,makefile&theme=nord)
 
 <!--
 **d2461795341/d2461795341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
