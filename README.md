@@ -1,12 +1,6 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2461795341&layout=compact&hide=javascript,html,makefile&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2461795341&layout=compact&hide=javascript,html,makefile&theme=shadow_green)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 <!--
 **d2461795341/d2461795341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
