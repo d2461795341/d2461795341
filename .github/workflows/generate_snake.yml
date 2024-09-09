@@ -1,8 +1,10 @@
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天运行一次
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,17 +19,12 @@ jobs:
         uses: aelassas/snk/svg-only@main
         id: snake-gif
         with:
-          github_user_name: d2461795341  # 替换为你的 GitHub 用户名
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
               dist/github-contribution-grid-snake.svg
               dist/github-snake-dark.svg?palette=github-dark
-      
-      - name: Commit and Push Snake.svg to GitHub
+      - name: Push to GitHub
         uses: EndBug/add-and-commit@v7.2.1
         with:
-          author_name: "github-actions"
-          author_email: "github-actions@github.com"
-          branch: main  # 推送到 main 分支
+          branch: main
           message: 'Generate Contribution Snake'
-          add: "dist/*"
-          github_token: ${{ secrets.GITHUB_TOKEN }}  # 使用 GitHub 自动生成的 GITHUB_TOKEN
