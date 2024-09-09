@@ -1,11 +1,10 @@
 <!--## Hi there 👋-->
+![暗色](https://raw.githubusercontent.com/d2461795341/d2461795341/output/github-contribution-grid-snake-dark.svg)
 <div align="center">
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=d2461795341&hide=javascript,html,makefile&theme=github_dark" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2461795341&layout=compact&langs_count=8&hide=javascript,html,makefile&theme=github_dark" />
 <span>&emsp;&emsp;</span>
 </div>
-
-![](https://raw.githubusercontent.com/d2461795341/d2461795341/main/dist/github-contribution-grid-snake.svg)
 
 <!--
 **d2461795341/d2461795341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
